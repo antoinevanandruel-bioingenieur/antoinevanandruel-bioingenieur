@@ -39,5 +39,5 @@ This repository contains a two-part engineering pipeline tailored for Biologics 
 
 ## 📈 My Philosophy
 "Data without compliance is a regulatory risk. Data without pedagogy is a wasted asset."  
-I leverage my dual passion for mathematics and pharmaceutical excellence to build robust, validated data tools that empower MSAT teams to optimize process performance safely.
+I leverage my  passion for mathematics and pharmaceutical excellence to build robust, validated data tools that empower MSAT teams to optimize process performance safely.
 
