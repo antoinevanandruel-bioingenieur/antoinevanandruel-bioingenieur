@@ -1,4 +1,4 @@
-# Hi, I'm a Bioengineer & MSAT Data Specialist 👋
+# Hi, I'm a Bioengineer & I hope future Data Specialist 👋
 
 Welcome to my portfolio! I specialize in bridging the gap between complex bioprocess data, pharmaceutical compliance, and statistical analysis. 
 
