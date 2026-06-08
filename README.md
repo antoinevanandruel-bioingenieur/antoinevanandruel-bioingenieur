@@ -1,14 +1,14 @@
-# Hi, I'm a Bioengineer & I hopr future MSAT Data Specialist 👋
+# Hi, I'm a Bioengineer & MSAT Data Specialist 👋
 
 Welcome to my portfolio! I specialize in bridging the gap between complex bioprocess data, pharmaceutical compliance, and statistical analysis. 
 
-With a hybrid background, I turn raw manufacturing data into actionable insights while ensuring strict data integrity.
+With a unique hybrid background, I turn raw manufacturing data into actionable insights while ensuring strict data integrity.
 
 ---
 
 ## 🧬 Professional Profile
 
-* **5 Years in Pharma Quality Assurance (QA):** Expert in GxP environments, CAPA, data integrity regulations (ALCOA+), and manufacturing compliance.
+* **5 Years in Pharma Quality Assurance (QA):** Expert in GxP environments, computerized system validation (CSV), CAPA, data integrity regulations (ALCOA+), and manufacturing compliance.
 * **8 Years as a Mathematics & Science Educator:** Advanced mastery of applied statistics, data modeling, and experimental design. Proven track record in mentoring teams and simplifying complex technical concepts for rapid adoption.
 * **Bioengineer Training:** Strong core understanding of biologics, bioprocesses (upstream/downstream), and MSAT requirements.
 
@@ -35,3 +35,4 @@ A Python-based data pipeline designed to automate the extraction, cleaning, and 
 ## 📈 My Philosophy
 "Data without compliance is a regulatory risk. Data without pedagogy is a wasted asset."  
 I leverage my dual passion for mathematics and pharmaceutical excellence to build robust, validated data tools that empower MSAT teams to optimize process performance safely.
+
