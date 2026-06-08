@@ -35,7 +35,7 @@ This repository contains a two-part engineering pipeline tailored for Biologics 
 * **[Project 2 (Predictive Bioprocess Monitoring)](https://github.com/antoinevanandruel-bioingenieur/msat-bioprocess-predictive-modeling) :** Implementation of a Scikit-Learn multivariate linear regression model to forecast Viable Cell Density (VCD) based on real-time pH and Dissolved Oxygen (DO) sensor inputs.
 * **[📐 Project 3 (Bioprocess Anomaly Detection (MSPC))](https://github.com/antoinevanandruel-bioingenieur/bioprocess-pca-monitoring):**
 *An unsupervised mathematical model to monitor bioreactor health and predict batch deviations.*
-* The goal: Detect subtle manufacturing drifts by condensing multi-sensor data (pH, Temp, dO2) into a single statistical control room.
+The goal: Detect subtle manufacturing drifts by condensing multi-sensor data (pH, Temp, dO2) into a single statistical control room.
 
 
 
