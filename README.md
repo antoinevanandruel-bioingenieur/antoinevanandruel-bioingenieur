@@ -25,8 +25,14 @@ With a unique hybrid background, I turn raw manufacturing data into actionable i
 
 ## 📁 Featured Projects
 
-### 🚀 [MSAT Biologics: Automated Batch Data Processing]([https://github.com](https://github.com/antoinevanandruel-bioingenieur/msat-batch-data-automation))
+# 🚀 MSAT Biologics: Automated Batch Data Processing
+
 A Python-based data pipeline designed to automate the extraction, cleaning, and standardization of multi-source bioreactor batch records under strict GxP-aligned traceability.
+
+## 📌 Project Overview
+This repository contains a two-part engineering pipeline tailored for Biologics MSAT operations:
+* **Project 1 (Data Cleanroom & QA Audit):** Automated ingestion, anomaly filtering (handling out-of-spec pH/DO), and automated generation of a compliance-ready data audit trail.
+* **Project 2 (Predictive Bioprocess Monitoring):** Implementation of a Scikit-Learn multivariate linear regression model to forecast Viable Cell Density (VCD) based on real-time pH and Dissolved Oxygen (DO) sensor inputs.
 
 
 ---
