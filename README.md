@@ -40,7 +40,7 @@ This repository contains a two-part engineering pipeline tailored for Biologics 
 * **The Math**: Implemented **Principal Component Analysis (PCA)** from scratch to compute two advanced industrial metrics:
   * **Hotelling's $T^2$** (using *Fisher-Snedecor $F$-distribution*) to detect speed/amplitude drifts.
   * **Squared Prediction Error / $Q$-Residual** (using *Jackson-Mudholkar approximation*) to detect broken biological correlations.
-* **MSAT Value**: Acts as an early warning system to find the root cause of data deviations before a batch fails.
+* **Value**: Acts as an early warning system to find the root cause of data deviations before a batch fails.
 
 
 ---
