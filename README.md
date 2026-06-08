@@ -33,7 +33,7 @@ A Python-based data pipeline designed to automate the extraction, cleaning, and 
 This repository contains a two-part engineering pipeline tailored for Biologics MSAT operations:
 * **[Project 1 (Data Cleanroom & QA Audit)](https://github.com/antoinevanandruel-bioingenieur/msat-batch-data-automation):** Automated ingestion, anomaly filtering (handling out-of-spec pH/DO), and automated generation of a compliance-ready data audit trail.
 * **[Project 2 (Predictive Bioprocess Monitoring)](https://github.com/antoinevanandruel-bioingenieur/msat-bioprocess-predictive-modeling) :** Implementation of a Scikit-Learn multivariate linear regression model to forecast Viable Cell Density (VCD) based on real-time pH and Dissolved Oxygen (DO) sensor inputs.
-* ### 📐 Project 3: Bioprocess Anomaly Detection (MSPC)
+* ### [📐 Project 3: Bioprocess Anomaly Detection (MSPC)] (https://github.com/antoinevanandruel-bioingenieur/bioprocess-pca-monitoring) 
 *An unsupervised mathematical model to monitor bioreactor health and predict batch deviations.*
 
 * **The Goal**: Detect subtle manufacturing drifts by condensing multi-sensor data (pH, Temp, dO2) into a single statistical control room.
