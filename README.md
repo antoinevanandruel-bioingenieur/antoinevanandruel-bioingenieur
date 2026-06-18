@@ -1,4 +1,4 @@
-# Hi, I'm a Bioengineer & I hope future Data Specialist 👋
+# Hi, I'm a Bioengineer 👋
 
 Welcome to my portfolio! I specialize in bridging the gap between complex bioprocess data, pharmaceutical compliance, and statistical analysis. 
 
@@ -43,5 +43,5 @@ The goal: Detect subtle manufacturing drifts by condensing multi-sensor data (pH
 
 ## 📈 My Philosophy
 "Data without compliance is a regulatory risk. Data without pedagogy is a wasted asset."  
-I leverage my  passion for mathematics and pharmaceutical excellence to build robust, validated data tools that empower MSAT teams to optimize process performance safely.
+I leverage my  passion for mathematics and pharmaceutical excellence to build robust, validated data tools that empower pharmaceutical teams to optimize process performance safely.
 
